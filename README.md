@@ -67,4 +67,4 @@ Output #10: 7
 ```
 
 
-Sample data for a *graph* and *commands* can be found [here](https://github.com/lucaslouca/Trains/tree/master/src/test/resources).
+
